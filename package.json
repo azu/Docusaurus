@@ -59,6 +59,8 @@
     "docusaurus-feed": "./lib/generate-feed.js"
   },
   "devDependencies": {
-    "prettier": "^1.9.1"
+    "@textlint-rule/textlint-rule-no-dead-link": "^3.2.0",
+    "prettier": "^1.9.1",
+    "textlint": "^9.1.1"
   }
 }
